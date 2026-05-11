@@ -57,7 +57,7 @@ After running the workflow:
 On desktop, just click Raw → copy the URL.
 ### Example RAW URL format:
 ```text
-https://raw.githubusercontent.com/NasiLemakk/Pluto-TV-Playlists/main/plutotv_es.m3u
+https://raw.githubusercontent.com/NasiLemakk/Pluto-TV-Playlists/main/plutotv_es.m3u8
 ```
 Add the URL above as a remote playlist in your IPTV player (TiviMate, IPTV Smarters, OTT Navigator, etc).
 
