@@ -52,12 +52,12 @@ After editing `config.json`:
 After running the workflow:
 
 1. Go to the `output/` folder in your forked repository.  
-2. You will find your **personalized M3U8 playlist** (`plutotv_us.m3u8`) that uses your own client ID.  
+2. You will find your **personalized M3U8 playlist** (`plutotv_es.m3u8`) that uses your own client ID.  
 3. Open the .m3u8 file → tap the three dots (mobile) → select View → copy the URL.
 On desktop, just click Raw → copy the URL.
 ### Example RAW URL format:
 ```text
-https://raw.githubusercontent.com/NasiLemakk/Pluto-TV-Playlists/main/plutotv_us.m3u
+https://raw.githubusercontent.com/NasiLemakk/Pluto-TV-Playlists/main/plutotv_es.m3u8
 ```
 Add the URL above as a remote playlist in your IPTV player (TiviMate, IPTV Smarters, OTT Navigator, etc).
 
